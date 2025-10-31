@@ -3,3 +3,32 @@
     --cor-secundario: #284260;
     --cor-destaque: #c92bfc;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body.dark-mode {
+    background-color: rgb( 18, 18, 0.853);
+    color: #fff;
+}
+
+.dark-mode {
+    margin-top: 20px;
+}
+
+
+}
